@@ -66,10 +66,10 @@ export default defineUserConfig({
       },
       {
         text: "逻辑与运算",
-        link: "/逻辑与运算/分区智能广播.md",
+        link: "/逻辑与运算/分时智能广播.md",
         collapsible: true,
         children: [
-          {text: "分区智能广播", link: "/逻辑与运算/分区智能广播.md"}
+          {text: "分时智能广播", link: "/逻辑与运算/分时智能广播.md"}
         ]
       },
       {
