@@ -76,11 +76,10 @@ export default defineUserConfig({
         text: "系统与反馈",
         link: "/系统与反馈/避障机器人.md",
         collapsible: true,
-        childredn: [
+        children: [
           {text: "避障机器人", link: "/系统与反馈/避障机器人.md"},
           {text: "沿墙行走机器人", link: "/系统与反馈/沿墙行走机器人.md"},
           {text: "跟随机器人", link: "/系统与反馈/跟随机器人.md"},
-          {text: "光强检测机器人", link: "/系统与反馈/光强检测机器人.md"},
           {text: "循线机器人", link: "/系统与反馈/循线机器人.md"}
         ],
       },
