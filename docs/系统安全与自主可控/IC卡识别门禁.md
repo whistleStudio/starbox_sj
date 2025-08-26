@@ -9,8 +9,9 @@
 
 <a href="/tutorial/starbox_sj/sb3/【小学】IC卡识别门禁.sb3">点击下载程序: 【小学】IC卡识别门禁.sb3</a>
 
-门闸初始状态闭合，舵机停滞角度可根据实际门闸结构件与舵机转轴连接情况进行调整。
+<a href="https://www.bilibili.com/video/BV1bovczdEdk/?vd_source=d34a80bae9d64a0c5a0716bd47877802" target="_blank">点击查看演示视频</a>
 
+门闸初始状态闭合，舵机停滞角度可根据实际门闸结构件与舵机转轴连接情况进行调整。
 
 <img src="/images/docimg/【小学】IC卡识别门禁.png" >
 
